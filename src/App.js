@@ -11,7 +11,7 @@ const Button = styled.button`
   display:inline-block;
   flex: 1;
   border: none;
-  background-color: magenta;
+  background-color: #7d689c;
   height: 30px;
   width: 50px;
   border-radius: 10px;
